@@ -4,5 +4,4 @@ This course will walk you through writing your first action and using it with a 
 
 **Ready to get started? Navigate to the first issue.**
 
-Update: include self hosted runner
-Update: include self hosted runner
+Update: self hosted runner in Fargate
