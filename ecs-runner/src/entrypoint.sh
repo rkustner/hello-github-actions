@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# start docker engine
+service docker start
+
 if [[ "$@" == "bash" ]]; then
     exec $@
 fi
